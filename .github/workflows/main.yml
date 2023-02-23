@@ -1,0 +1,5 @@
+on: [push]
+name: Azure LogicApp creation
+
+jobs:
+  build:
